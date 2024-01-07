@@ -1,0 +1,7 @@
+{
+	"cSpell.words": ["Onest"],
+	"prettier.useTabs": true,
+	"[astro]": {
+		"editor.defaultFormatter": "astro-build.astro-vscode"
+	}
+}
