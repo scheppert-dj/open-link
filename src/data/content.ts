@@ -51,17 +51,17 @@ const content: Content = {
 	socials: {
 		mail: {
 			icon: 'https://res.cloudinary.com/dgjvbmhi5/image/upload/v1704673785/mail_aljvwg.svg',
-			url: '',
+			url: 'mailto:djscheppert@gmail.com',
 			alt: 'Email link'
 		},
 		facebook: {
 			icon: 'https://res.cloudinary.com/dgjvbmhi5/image/upload/v1704673673/brand-facebook_fxyznf.svg',
-			url: '',
+			url: 'https://facebook.com/MichaelScheppert',
 			alt: 'Facebook link'
 		},
 		instagram: {
 			icon: 'https://res.cloudinary.com/dgjvbmhi5/image/upload/v1704673673/brand-instagram_bnrtxv.svg',
-			url: '',
+			url: 'https://instagram.com/MichaelScheppert',
 			alt: 'Instagram Link'
 		},
 		x: undefined,
