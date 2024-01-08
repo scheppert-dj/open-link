@@ -3,12 +3,10 @@ import type { Content } from '../types'
 const content: Content = {
 	meta: {
 		title: '@MichaelScheppert',
-		description: 'DJ and Producer Michael Scheppert, from Germany, now in Australia.',
-		image: ''
+		description: 'DJ and Producer Michael Scheppert, from Germany, now in Australia.'
 	},
 	header: {
-		avatar:
-			'https://res.cloudinary.com/dgjvbmhi5/image/upload/v1704624705/zmekt1day9asopvkjdot.webp',
+		avatar: 'https://res.cloudinary.com/dgjvbmhi5/image/upload/v1704672095/avatar_eeds7g.webp',
 		name: '@MichaelScheppert',
 		description: 'DJ and Producer Michael Scheppert, from Germany, now in Australia.'
 	},
