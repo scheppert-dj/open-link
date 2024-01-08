@@ -2,6 +2,7 @@ export type Content = {
 	meta: {
 		title: string
 		description: string
+		gtmId?: string
 	}
 	header: {
 		avatar: string

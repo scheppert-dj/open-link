@@ -3,7 +3,8 @@ import type { Content } from '../types'
 const content: Content = {
 	meta: {
 		title: '@MichaelScheppert',
-		description: 'DJ and Producer Michael Scheppert, from Germany, now in Australia.'
+		description: 'DJ and Producer Michael Scheppert, from Germany, now in Australia.',
+		gtmId: import.meta.env.GTM_ID
 	},
 	header: {
 		avatar: 'https://res.cloudinary.com/dgjvbmhi5/image/upload/v1704672095/avatar_eeds7g.webp',

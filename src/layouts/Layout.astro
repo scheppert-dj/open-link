@@ -1,5 +1,7 @@
 ---
 import '@fontsource-variable/onest'
+import GtmHead from '../components/GtmHead.astro'
+import GtmBody from '../components/GtmBody.astro'
 
 interface Props {
 	title: string
@@ -18,8 +20,10 @@ const { title, description } = Astro.props
 		<link rel="icon" type="image/webp" href="/favicon.webp" />
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
+		<GtmHead />
 	</head>
 	<body class="h-full bg-gray-900">
+		<GtmBody />
 		<slot />
 	</body>
 </html>
