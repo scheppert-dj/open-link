@@ -19,8 +19,40 @@ export type Content = {
 		text: string
 	}[]
 	socials: {
-		icon: string
-		url: string
-		text: string
-	}[]
+		mail:
+			| {
+					icon: string
+					url: string
+					alt: string
+			  }
+			| undefined
+		facebook:
+			| {
+					icon: string
+					url: string
+					alt: string
+			  }
+			| undefined
+		instagram:
+			| {
+					icon: string
+					url: string
+					alt: string
+			  }
+			| undefined
+		x:
+			| {
+					icon: string
+					url: string
+					alt: string
+			  }
+			| undefined
+		github:
+			| {
+					icon: string
+					url: string
+					alt: string
+			  }
+			| undefined
+	}
 }

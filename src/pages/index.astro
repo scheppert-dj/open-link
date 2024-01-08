@@ -3,11 +3,11 @@ import AppIcon from '../components/AppIcon.astro'
 import Link from '../components/Link.astro'
 import content from '../data/content'
 import Layout from '../layouts/Layout.astro'
+import Socials from '../components/Socials.astro'
 ---
 
 <Layout title={content.meta.title} description={content.meta.description}>
 	<div class="relative min-h-svh w-full bg-gray-900 text-gray-100">
-		<!-- <div class="fixed bottom-0 left-0 right-0 top-0 w-full bg-gray-900 text-gray-100"></div> -->
 		<main class="mx-auto max-w-screen-sm p-8">
 			<div class="flex flex-col items-center gap-8">
 				<header class="flex flex-col items-center gap-2">
@@ -19,7 +19,7 @@ import Layout from '../layouts/Layout.astro'
 					<h1 class="text-center text-xl font-semibold">
 						{content.header.name}
 					</h1>
-					<p class="text-center">{content.header.description}</p>
+					<p class="text-pretty text-center">{content.header.description}</p>
 				</header>
 
 				<section class="size-full">
@@ -47,7 +47,7 @@ import Layout from '../layouts/Layout.astro'
 				</section>
 
 				<footer class="flex flex-row justify-center gap-4">
-					<p>Mail...</p>
+					<Socials {content} />
 				</footer>
 			</div>
 		</main>

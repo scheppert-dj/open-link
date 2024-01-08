@@ -48,13 +48,25 @@ const content: Content = {
 			text: 'Stay High feat. Julia Church (VIP) (Michael Scheppert Remix)'
 		}
 	],
-	socials: [
-		{
-			icon: '',
+	socials: {
+		mail: {
+			icon: 'https://res.cloudinary.com/dgjvbmhi5/image/upload/v1704673785/mail_aljvwg.svg',
 			url: '',
-			text: ''
-		}
-	]
+			alt: 'Email link'
+		},
+		facebook: {
+			icon: 'https://res.cloudinary.com/dgjvbmhi5/image/upload/v1704673673/brand-facebook_fxyznf.svg',
+			url: '',
+			alt: 'Facebook link'
+		},
+		instagram: {
+			icon: 'https://res.cloudinary.com/dgjvbmhi5/image/upload/v1704673673/brand-instagram_bnrtxv.svg',
+			url: '',
+			alt: 'Instagram Link'
+		},
+		x: undefined,
+		github: undefined
+	}
 }
 
 export default content

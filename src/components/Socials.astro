@@ -1,0 +1,62 @@
+---
+import MailIcon from '../icons/MailIcon.svg.astro'
+import FacebookIcon from '../icons/FacebookIcon.svg.astro'
+import InstagramIcon from '../icons/InstagramIcon.svg.astro'
+import GithubIcon from '../icons/GithubIcon.svg.astro'
+import XIcon from '../icons/XIcon.svg.astro'
+import type { Content } from '../types'
+
+interface Props {
+	content: Content
+}
+
+const { content } = Astro.props
+---
+
+<ul class="flex flex-row gap-4">
+	{
+		content.socials.mail && (
+			<li>
+				<a href={content.socials.mail.url} aria-label={content.socials.mail.alt}>
+					<MailIcon class="size-10" />
+				</a>
+			</li>
+		)
+	}
+	{
+		content.socials.facebook && (
+			<li>
+				<a href={content.socials.facebook.url} aria-label={content.socials.facebook.alt}>
+					<FacebookIcon class="size-10" />
+				</a>
+			</li>
+		)
+	}
+	{
+		content.socials.instagram && (
+			<li>
+				<a href={content.socials.instagram.url} aria-label={content.socials.instagram.alt}>
+					<InstagramIcon class="size-10" />
+				</a>
+			</li>
+		)
+	}
+	{
+		content.socials.github && (
+			<li>
+				<a href={content.socials.github.url} aria-label={content.socials.github.alt}>
+					<GithubIcon class="size-10" />
+				</a>
+			</li>
+		)
+	}
+	{
+		content.socials.x && (
+			<li>
+				<a href={content.socials.x.url} aria-label={content.socials.x.alt}>
+					<XIcon class="size-10" />
+				</a>
+			</li>
+		)
+	}
+</ul>
