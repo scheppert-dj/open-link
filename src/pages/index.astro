@@ -7,6 +7,10 @@ import Socials from '../components/Socials.astro'
 ---
 
 <Layout title={content.meta.title} description={content.meta.description}>
+	 <video autoplay loop muted class="background-video">
+        <source src=".,/video/backgroundvideo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 	<div class="relative min-h-svh w-full bg-gray-900 text-gray-100">
 		<main class="mx-auto max-w-screen-sm p-8">
 			<div class="flex flex-col items-center gap-8">
