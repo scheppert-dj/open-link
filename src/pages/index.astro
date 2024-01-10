@@ -7,8 +7,12 @@ import Socials from '../components/Socials.astro'
 ---
 
 <Layout title={content.meta.title} description={content.meta.description}>
-	<div class="relative min-h-svh w-full bg-gray-900 text-gray-100">
-		<main class="mx-auto max-w-screen-sm p-8">
+	<div class="relative min-h-svh w-full text-gray-100">
+		<div class="fixed left-0 top-0 -z-10 h-full w-full bg-gray-900">
+			<video class="h-full w-full object-cover" loop muted autoplay src="/low.mp4"></video>
+		</div>
+
+		<main class="z-10 mx-auto max-w-screen-sm p-8">
 			<div class="flex flex-col items-center gap-8">
 				<header class="flex flex-col items-center gap-2">
 					<img
