@@ -8,6 +8,6 @@ const { url, image, name } = Astro.props
 ---
 
 <a class="item-center flex flex-col items-center gap-2" href={url}>
-	<img class="size-20 rounded-full" src={image} alt={name} />
+	<img class="size-16 rounded-full md:size-20" src={image} alt={name} />
 	<p>{name}</p>
 </a>
