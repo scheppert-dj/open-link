@@ -28,7 +28,7 @@ const content: Content = {
 			image:
 				'https://res.cloudinary.com/dlq8spaji/image/upload/v1706831930/df4wiy1w1pl96hmuddlp.png',
 			url: 'https://fanlink.to/ScheppertsMantra',
-			text: 'NEW RELEASE: Scheppert\'s Mantra (Original Mix) PRE-ORDER NOW'
+			text: 'NEW RELEASE: Mantra (Original Mix) PRE-ORDER NOW'
 		},
 		{
 			image:
