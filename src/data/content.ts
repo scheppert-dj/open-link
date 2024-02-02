@@ -26,6 +26,12 @@ const content: Content = {
 	links: [
 		{
 			image:
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1706831930/df4wiy1w1pl96hmuddlp.png',
+			url: 'https://fanlink.to/ScheppertsMantra',
+			text: 'NEW RELEASE: Scheppert\'s Mantra (Original Mix) PRE-ORDER NOW'
+		},
+		{
+			image:
 				'https://res.cloudinary.com/dlq8spaji/image/upload/v1705032875/l1kcooeuhf4sxxcofuve.png',
 			url: 'https://www.puzzlesrecords.com/event-details-registration/puzzles-2-connect-launch-party',
 			text: 'Puzzles Connect Launch Party 3.2.2024'
@@ -47,12 +53,6 @@ const content: Content = {
 				'https://res.cloudinary.com/dgjvbmhi5/image/upload/v1704629689/ug8mh-26c857594b3841e0a1a87d2e0a234791_xsl17s.webp',
 			url: 'https://www.beatport.com/track/unartificial-intelligence/18179689',
 			text: 'Buy Unartificial Intelligence'
-		},
-		{
-			image:
-				'https://res.cloudinary.com/dgjvbmhi5/image/upload/v1704629689/08h7v-IMG_20240104_144632_anuoz3.webp',
-			url: 'https://skiomusic.com/r/m0s',
-			text: 'Stay High feat. Julia Church (VIP) (Michael Scheppert Remix)'
 		}
 	],
 	socials: {
