@@ -32,12 +32,6 @@ const content: Content = {
 		},
 		{
 			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1705032875/l1kcooeuhf4sxxcofuve.png',
-			url: 'https://www.puzzlesrecords.com/event-details-registration/puzzles-2-connect-launch-party',
-			text: 'Puzzles Connect Launch Party 3.2.2024'
-		},
-		{
-			image:
 				'https://res.cloudinary.com/dgjvbmhi5/image/upload/v1704629689/bhq1c-IMG_20231212_171200_011_sfizag.webp',
 			url: 'https://www.puzzlesrecords.com/event-details-registration/puzzles-connect-1',
 			text: 'Puzzles Connect 23-25.2.2024'
