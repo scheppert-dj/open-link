@@ -28,13 +28,19 @@ const content: Content = {
 			image:
 				'https://res.cloudinary.com/dlq8spaji/image/upload/v1706831930/df4wiy1w1pl96hmuddlp.png',
 			url: 'https://fanlink.to/ScheppertsMantra',
-			text: 'NEW RELEASE: Mantra (Original Mix) PRE-ORDER NOW'
+			text: 'NEW RELEASE: Mantra (Original Mix)'
 		},
 		{
 			image:
 				'https://res.cloudinary.com/dgjvbmhi5/image/upload/v1704629689/bhq1c-IMG_20231212_171200_011_sfizag.webp',
 			url: 'https://www.puzzlesrecords.com/event-details-registration/puzzles-connect-1',
 			text: 'Puzzles Connect 23-25.2.2024'
+		},
+		{
+			image:
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1708040569/wzipxrcbb546cnjsr5sl.png',
+			url: 'https://tickets.oztix.com.au/outlet/event/3a693505-b5ae-4e07-8f29-192d886fafea',
+			text: 'Templum x Caldera 09.3.2024'
 		},
 		{
 			image:
