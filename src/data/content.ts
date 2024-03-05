@@ -21,6 +21,11 @@ const content: Content = {
 			image: 'https://res.cloudinary.com/dgjvbmhi5/image/upload/v1704628192/image_1_oo7pbw.webp',
 			name: 'SoundCloud',
 			url: 'https://soundcloud.com/michaelscheppert'
+		},
+		{
+			image: 'https://res.cloudinary.com/dlq8spaji/image/upload/v1709601698/itdtifimatv9rsqtxutp.png',
+			name: 'Beatport',
+			url: 'https://www.beatport.com/artist/michael-scheppert/1157216'
 		}
 	],
 	links: [
@@ -32,27 +37,27 @@ const content: Content = {
 		},
 		{
 			image:
-				'https://res.cloudinary.com/dgjvbmhi5/image/upload/v1704629689/bhq1c-IMG_20231212_171200_011_sfizag.webp',
-			url: 'https://www.puzzlesrecords.com/event-details-registration/puzzles-connect-1',
-			text: 'Puzzles Connect 23-25.2.2024'
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1709601114/fcqwv5csjshpgk679zq9.png',
+			url: 'https://soundcloud.com/michaelscheppert/michael-scheppert-in-tokyo',
+			text: 'NEW RELEASE: TOKYO DRIFT RMX'
 		},
 		{
 			image:
 				'https://res.cloudinary.com/dlq8spaji/image/upload/v1708040569/wzipxrcbb546cnjsr5sl.png',
 			url: 'https://tickets.oztix.com.au/outlet/event/3a693505-b5ae-4e07-8f29-192d886fafea',
-			text: 'Templum x Caldera 09.3.2024'
+			text: 'Templum x Caldera 09.03'
 		},
 		{
 			image:
-				'https://res.cloudinary.com/dgjvbmhi5/image/upload/v1704629689/ro9u6-IMG20231205WA0023_ajujca.webp',
-			url: 'https://www.beatport.com/release/sailor-dream-michael-scheppert-remix/4361309',
-			text: 'Buy HayTham - Sailor Dream (Michael Scheppert Remix)'
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1709601295/q1ebyey2dogn9zy1agbb.jpg',
+			url: 'https://m.moshtix.com.au/v2/event/elevate/162490',
+			text: 'Human Sense 16.03'
 		},
 		{
 			image:
-				'https://res.cloudinary.com/dgjvbmhi5/image/upload/v1704629689/ug8mh-26c857594b3841e0a1a87d2e0a234791_xsl17s.webp',
-			url: 'https://www.beatport.com/track/unartificial-intelligence/18179689',
-			text: 'Buy Unartificial Intelligence'
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1709601529/cg4fqtx1vjsdiznbvp03.png',
+			url: 'https://soundcloud.com/michaelscheppert/puzzles-connect-2024-live-set',
+			text: 'Puzzles Connect 2024 Live Set'
 		}
 	],
 	socials: {
