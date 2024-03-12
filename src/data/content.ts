@@ -43,15 +43,15 @@ const content: Content = {
 		},
 		{
 			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1708040569/wzipxrcbb546cnjsr5sl.png',
-			url: 'https://tickets.oztix.com.au/outlet/event/3a693505-b5ae-4e07-8f29-192d886fafea',
-			text: 'Templum x Caldera 09.03'
-		},
-		{
-			image:
 				'https://res.cloudinary.com/dlq8spaji/image/upload/v1709601295/q1ebyey2dogn9zy1agbb.jpg',
 			url: 'https://m.moshtix.com.au/v2/event/elevate/162490',
 			text: 'Human Sense 16.03'
+		},
+		{
+			image:
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1710211253/r0t355f9zdfrdfefefwq.png',
+			url: 'https://www.hcbears.com.au/event-5610302',
+			text: 'BEARHAIN #2 22.03'
 		},
 		{
 			image:
