@@ -43,12 +43,6 @@ const content: Content = {
 		},
 		{
 			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1710211253/r0t355f9zdfrdfefefwq.png',
-			url: 'https://www.hcbears.com.au/event-5610302',
-			text: 'BEARHAIN #2 22.03'
-		},
-		{
-			image:
 				'https://res.cloudinary.com/dlq8spaji/image/upload/v1709601529/cg4fqtx1vjsdiznbvp03.png',
 			url: 'https://soundcloud.com/michaelscheppert/puzzles-connect-2024-live-set',
 			text: 'Puzzles Connect 2024 Live Set'
