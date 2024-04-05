@@ -31,6 +31,12 @@ const content: Content = {
 	links: [
 		{
 			image:
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1712361214/tuccslojluplve7c2obc.webp',
+			url: 'https://www.puzzlesrecords.com/event-details-registration/puzzles-5-ft-kaufmann-de',
+			text: '11.5 Puzzles 5 ft. Kaufmann (DE)'
+		},
+		{
+			image:
 				'https://res.cloudinary.com/dlq8spaji/image/upload/v1706831930/df4wiy1w1pl96hmuddlp.png',
 			url: 'https://fanlink.to/ScheppertsMantra',
 			text: 'NEW RELEASE: Mantra (Original Mix)'
