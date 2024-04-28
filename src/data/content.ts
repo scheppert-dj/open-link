@@ -37,12 +37,6 @@ const content: Content = {
 		},
 		{
 			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1713508556/mbdhkoxom7rltbsqd9s5.webp',
-			url: 'https://www.eventbrite.com.au/e/oracle-intimate-party-tickets-883108991767?aff=oddtdtcreator',
-			text: '26.4 ORACLE - Intimate Party'
-		},
-		{
-			image:
 				'https://res.cloudinary.com/dlq8spaji/image/upload/v1713508957/krzwmdjm0xzmn2z01cup.webp',
 			url: 'https://events.ticketbooth.com.au/event/fckng-serious-syd',
 			text: '4.5 Fckng Serious Showcase Sydney'
