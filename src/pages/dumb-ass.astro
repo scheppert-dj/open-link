@@ -1,0 +1,28 @@
+---
+import { LinksInput } from '../components/utils/links-input'
+import { LinksOutput } from '../components/utils/links-output'
+import Layout from '../layouts/Layout.astro'
+---
+
+<Layout title="Dumb Ass" description="Michael Sheppert's Dumb Ass">
+	<div class="relative min-h-svh w-full text-gray-100">
+		<div class="fixed left-0 top-0 -z-10 h-full w-full bg-gray-900"></div>
+		<main class="container mx-auto bg-slate-900">
+			<header class="mb-16 grid grid-cols-12 gap-4">
+				<h1 class="col-span-10 col-start-3 text-8xl font-bold text-indigo-400">Dumb Ass</h1>
+				<p class="white col-span-10 col-start-3">
+					This is a dumb ass page. For a Michael Dumb F*cking Ass Sheppert.
+				</p>
+			</header>
+
+			<div class="mt-20 grid w-full grid-cols-12 gap-4">
+				<div class="col-span-4 col-start-3 flex w-full flex-grow flex-col">
+					<LinksInput client:load />
+				</div>
+				<div class="col-span-4 flex w-full flex-grow flex-col">
+					<LinksOutput client:load />
+				</div>
+			</div>
+		</main>
+	</div>
+</Layout>
