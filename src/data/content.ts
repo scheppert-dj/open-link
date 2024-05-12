@@ -31,20 +31,26 @@ const content: Content = {
 	links: [
 		{
 			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1712361214/tuccslojluplve7c2obc.webp',
-			url: 'https://www.puzzlesrecords.com/event-details-registration/puzzles-5-ft-kaufmann-de',
-			text: '11.5 Puzzles 5 ft. Kaufmann (DE)'
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1715493701/f6rsou4utrvmgm1zpqvm.webp',
+			url: 'https://www.eventbrite.com.au/e/blackwhite-dave-morales-b-day-sesh-tickets-898969129867',
+			text: '31.5 Black&White // Dave Morales B-Day Sesh'
 		},
 		{
 			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1713508957/krzwmdjm0xzmn2z01cup.webp',
-			url: 'https://events.ticketbooth.com.au/event/fckng-serious-syd',
-			text: '4.5 Fckng Serious Showcase Sydney'
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1715493876/niamh5ceqxjfxbouesji.png',
+			url: 'https://www.puzzlesrecords.com/event-details-registration/puzzles-6-ft-nonameleft-kate-hex',
+			text: '01.6 Puzzles #6 ft. NoNameLeft & Kate Hex'
+		},
+		{
+			image:
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1715493490/cnskg8qnuzvk6rfb59gh.webp',
+			url: 'https://go.protonradio.com/r/rloWSWgoMJncU',
+			text: 'NEW RELEASE: Julian - Phantom (Scheppert Remix)'
 		},
 		{
 			image:
 				'https://res.cloudinary.com/dlq8spaji/image/upload/v1706831930/df4wiy1w1pl96hmuddlp.png',
-			url: 'https://fanlink.to/ScheppertsMantra',
+			url: 'https://fanlink.tv/ScheppertsMantra',
 			text: 'NEW RELEASE: Mantra (Original Mix)'
 		},
 		{
