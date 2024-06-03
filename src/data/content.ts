@@ -31,15 +31,9 @@ const content: Content = {
 	links: [
 		{
 			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1715493701/f6rsou4utrvmgm1zpqvm.webp',
-			url: 'https://www.eventbrite.com.au/e/blackwhite-dave-morales-b-day-sesh-tickets-898969129867',
-			text: '31.5 Black&White // Dave Morales B-Day Sesh'
-		},
-		{
-			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1715493876/niamh5ceqxjfxbouesji.png',
-			url: 'https://www.puzzlesrecords.com/event-details-registration/puzzles-6-ft-nonameleft-kate-hex',
-			text: '01.6 Puzzles #6 ft. NoNameLeft & Kate Hex'
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1717394332/c2z4vu7ak2limahthptr.webp',
+			url: 'https://www.puzzlesrecords.com/event-details-registration/puzzles-7-ft-nonameleft-kate-hex',
+			text: '01.6 Puzzles #7 ft. NoNameLeft & Kate Hex'
 		},
 		{
 			image:
