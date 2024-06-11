@@ -31,12 +31,6 @@ const content: Content = {
 	links: [
 		{
 			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1717394332/c2z4vu7ak2limahthptr.webp',
-			url: 'https://www.puzzlesrecords.com/event-details-registration/puzzles-7-ft-nonameleft-kate-hex',
-			text: '01.6 Puzzles #7 ft. NoNameLeft & Kate Hex'
-		},
-		{
-			image:
 				'https://res.cloudinary.com/dlq8spaji/image/upload/v1715493490/cnskg8qnuzvk6rfb59gh.webp',
 			url: 'https://go.protonradio.com/r/rloWSWgoMJncU',
 			text: 'NEW RELEASE: Julian D - Phantom (Scheppert Remix)'
