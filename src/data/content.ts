@@ -31,6 +31,12 @@ const content: Content = {
 	links: [
 		{
 			image:
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1719788681/lc9fgogjcu0w1gt4vn4l.png',
+			url: 'https://www.puzzlesrecords.com/event-details-registration/puzzles-9-pieces-vol-1-launch-va-party-f2f',
+			text: '13.07 Puzzles # 9 Pieces Vol. 1 launch VA Party (F2F)'
+		},
+		{
+			image:
 				'https://res.cloudinary.com/dlq8spaji/image/upload/v1715493490/cnskg8qnuzvk6rfb59gh.webp',
 			url: 'https://go.protonradio.com/r/rloWSWgoMJncU',
 			text: 'NEW RELEASE: Julian D - Phantom (Scheppert Remix)'
