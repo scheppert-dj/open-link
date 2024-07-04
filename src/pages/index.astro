@@ -21,10 +21,12 @@ import { Picture } from 'astro:assets'
 						src={content.header.avatar}
 						alt={content.header.description}
 						class="size-24 rounded-full"
-						formats={['webp', 'avif']}
-						densities={[1.5, 2, 3]}
+						densities={[2]}
+						formats={['avif', 'webp']}
+						fallbackFormat="jpeg"
+						quality={60}
 						width={96}
-						height={96}
+						inferSize
 					/>
 					<h1 class="text-center text-xl font-semibold">
 						{content.header.name}
