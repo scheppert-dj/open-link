@@ -37,6 +37,12 @@ const content: Content = {
 		},
 		{
 			image:
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1720160924/guyohfrb0p1wymmeyoej.webp',
+			url: 'https://go.protonradio.com/r/rlDGSiTCNfe0A',
+			text: 'NEW RELEASE: Pieces, Vol. 1'
+		},
+		{
+			image:
 				'https://res.cloudinary.com/dlq8spaji/image/upload/v1715493490/cnskg8qnuzvk6rfb59gh.webp',
 			url: 'https://go.protonradio.com/r/rloWSWgoMJncU',
 			text: 'NEW RELEASE: Julian D - Phantom (Scheppert Remix)'
