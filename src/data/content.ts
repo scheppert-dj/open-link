@@ -18,12 +18,14 @@ const content: Content = {
 			url: 'https://open.spotify.com/artist/4sXsRbyAi1wn5pOSNSTp7h'
 		},
 		{
-			image: 'https://res.cloudinary.com/dgjvbmhi5/image/upload/v1704628192/image_1_oo7pbw.webp',
+			image:
+				'https://res.cloudinary.com/dgjvbmhi5/image/upload/v1720076842/ajeclgfiuowqck1x55x7.jpg',
 			name: 'SoundCloud',
 			url: 'https://soundcloud.com/michaelscheppert'
 		},
 		{
-			image: 'https://res.cloudinary.com/dlq8spaji/image/upload/v1709601698/itdtifimatv9rsqtxutp.png',
+			image:
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1709601698/itdtifimatv9rsqtxutp.png',
 			name: 'Beatport',
 			url: 'https://www.beatport.com/artist/michael-scheppert/1157216'
 		}

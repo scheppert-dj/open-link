@@ -1,13 +1,33 @@
 ---
+import { Picture } from 'astro:assets'
+
 interface Props {
 	name: string
 	image: string
 	url: string
 }
 const { url, image, name } = Astro.props
+
+const isSvgImage = image.endsWith('.svg')
 ---
 
 <a class="item-center flex flex-col items-center gap-2" href={url}>
-	<img class="size-16 rounded-full md:size-20" src={image} alt={name} />
+	{
+		isSvgImage ? (
+			<img class="size-16 rounded-full md:size-20" src={image} alt={name} />
+		) : (
+			<Picture
+				src={image}
+				alt={name}
+				class="size-16 rounded-full md:size-20"
+				densities={[2]}
+				quality={60}
+				formats={['avif', 'webp']}
+				fallbackFormat="jpeg"
+				width={64}
+				inferSize
+			/>
+		)
+	}
 	<p>{name}</p>
 </a>

@@ -4,6 +4,7 @@ import Link from '../components/Link.astro'
 import content from '../data/content'
 import Layout from '../layouts/Layout.astro'
 import Socials from '../components/Socials.astro'
+import { Picture } from 'astro:assets'
 ---
 
 <Layout title={content.meta.title} description={content.meta.description}>
@@ -16,10 +17,16 @@ import Socials from '../components/Socials.astro'
 		<main class="z-10 mx-auto max-w-screen-sm p-8">
 			<div class="flex flex-col items-center gap-8">
 				<header class="flex flex-col items-center gap-2">
-					<img
-						class="size-24 rounded-full"
+					<Picture
 						src={content.header.avatar}
 						alt={content.header.description}
+						class="size-24 rounded-full"
+						densities={[2]}
+						formats={['avif', 'webp']}
+						fallbackFormat="jpeg"
+						quality={60}
+						width={96}
+						inferSize
 					/>
 					<h1 class="text-center text-xl font-semibold">
 						{content.header.name}
