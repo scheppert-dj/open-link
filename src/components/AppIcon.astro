@@ -1,5 +1,5 @@
 ---
-import { Picture } from 'astro:assets'
+import { Image } from 'astro:assets'
 
 interface Props {
 	name: string
@@ -16,14 +16,13 @@ const isSvgImage = image.endsWith('.svg')
 		isSvgImage ? (
 			<img class="size-16 rounded-full md:size-20" src={image} alt={name} />
 		) : (
-			<Picture
+			<Image
 				src={image}
 				alt={name}
 				class="size-16 rounded-full md:size-20"
+				format="webp"
 				densities={[2]}
 				quality={60}
-				formats={['avif', 'webp']}
-				fallbackFormat="jpeg"
 				width={64}
 				height={96}
 			/>
