@@ -33,9 +33,9 @@ const content: Content = {
 	links: [
 		{
 			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1719788681/lc9fgogjcu0w1gt4vn4l.png',
-			url: 'https://www.puzzlesrecords.com/event-details-registration/puzzles-9-pieces-vol-1-launch-va-party-f2f',
-			text: '13.07 Puzzles # 9 Pieces Vol. 1 launch VA Party (F2F)'
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1722238012/ovxolsmcmz2jewzf92uz.webp',
+			url: 'https://www.puzzlesrecords.com/event-details-registration/puzzles-11-ft-handsdown-leigh-boy',
+			text: '10 Aug Puzzles #11 ft. Handsdown & Leigh Boy'
 		},
 		{
 			image:
