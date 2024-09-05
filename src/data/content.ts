@@ -33,33 +33,33 @@ const content: Content = {
 	links: [
 		{
 			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1722238012/ovxolsmcmz2jewzf92uz.webp',
-			url: 'https://www.puzzlesrecords.com/event-details-registration/puzzles-11-ft-handsdown-leigh-boy',
-			text: '10 Aug Puzzles #11 ft. Handsdown & Leigh Boy'
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1725529947/ueb1z32e7claly9zxt52.jpg',
+			url: 'https://go.protonradio.com/r/rlefQUKaxHV7k',
+			text: 'PRE ORDER: Princess of Sunlight EP'
 		},
 		{
 			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1720160924/guyohfrb0p1wymmeyoej.webp',
-			url: 'https://go.protonradio.com/r/rlDGSiTCNfe0A',
-			text: 'NEW RELEASE: Pieces, Vol. 1'
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1725529444/rzq3xbc5eu8pflsubzft.png',
+			url: 'https://www.puzzlesrecords.com/shows',
+			text: '21 Sept Puzzles #13 ft. Luis M'
 		},
 		{
 			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1715493490/cnskg8qnuzvk6rfb59gh.webp',
-			url: 'https://go.protonradio.com/r/rloWSWgoMJncU',
-			text: 'NEW RELEASE: Julian D - Phantom (Scheppert Remix)'
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1725529367/u0zb3sy1zahkhpjiwnyl.png',
+			url: 'https://www.eventbrite.com.au/e/beathoven-presents-symbiosis-17-3rd-anniversary-halloween-party-tickets-1008238778327?aff=oddtdtcreator',
+			text: '25 OCT SYMBIOSIS #17 Halloween Party'
 		},
 		{
 			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1706831930/df4wiy1w1pl96hmuddlp.png',
-			url: 'https://fanlink.tv/ScheppertsMantra',
-			text: 'NEW RELEASE: Mantra (Original Mix)'
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1725529624/qfbtvh4j8wjpcemoxbbb.png',
+			url: 'https://events.humanitix.com/office-hours',
+			text: '1st Nov Office Hours Launch Party'
 		},
 		{
 			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1709601114/fcqwv5csjshpgk679zq9.png',
-			url: 'https://soundcloud.com/michaelscheppert/michael-scheppert-in-tokyo',
-			text: 'NEW RELEASE: TOKYO DRIFT RMX'
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1725529805/czyol1ef9uwkm7xruxye.png',
+			url: 'https://soundcloud.com/michaelscheppert/free-download-kaiber-original-mix',
+			text: 'FREE DOWNLOAD: Kaiber (Original Mix)'
 		},
 		{
 			image:
