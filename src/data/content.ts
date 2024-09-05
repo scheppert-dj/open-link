@@ -63,9 +63,9 @@ const content: Content = {
 		},
 		{
 			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1709601529/cg4fqtx1vjsdiznbvp03.png',
-			url: 'https://soundcloud.com/michaelscheppert/puzzles-connect-2024-live-set',
-			text: 'Puzzles Connect 2024 Live Set'
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1725530330/phyi2riregsqoqzx9gxp.png',
+			url: 'https://soundcloud.com/threerecordsuk/headliner-series-65-michael-scheppert',
+			text: 'Headliner Series 65 : Michael Scheppert'
 		}
 	],
 	socials: {
