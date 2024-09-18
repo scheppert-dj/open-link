@@ -35,7 +35,7 @@ const content: Content = {
 			image:
 				'https://res.cloudinary.com/dlq8spaji/image/upload/v1725529947/ueb1z32e7claly9zxt52.jpg',
 			url: 'https://go.protonradio.com/r/rlefQUKaxHV7k',
-			text: 'PRE ORDER: Princess of Sunlight EP'
+			text: 'NEW RELEASE: Princess of Sunlight EP'
 		},
 		{
 			image:
@@ -90,3 +90,5 @@ const content: Content = {
 }
 
 export default content
+
+
