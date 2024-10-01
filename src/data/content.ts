@@ -39,12 +39,6 @@ const content: Content = {
 		},
 		{
 			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1725529444/rzq3xbc5eu8pflsubzft.png',
-			url: 'https://www.puzzlesrecords.com/shows',
-			text: '21 Sept Puzzles #13 ft. Luis M'
-		},
-		{
-			image:
 				'https://res.cloudinary.com/dlq8spaji/image/upload/v1725529367/u0zb3sy1zahkhpjiwnyl.png',
 			url: 'https://www.eventbrite.com.au/e/beathoven-presents-symbiosis-17-3rd-anniversary-halloween-party-tickets-1008238778327?aff=oddtdtcreator',
 			text: '25 OCT SYMBIOSIS #17 Halloween Party'
