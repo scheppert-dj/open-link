@@ -33,21 +33,21 @@ const content: Content = {
 	links: [
 		{
 			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1725529947/ueb1z32e7claly9zxt52.jpg',
-			url: 'https://go.protonradio.com/r/rlefQUKaxHV7k',
-			text: 'NEW RELEASE: Princess of Sunlight EP'
-		},
-		{
-			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1725529367/u0zb3sy1zahkhpjiwnyl.png',
-			url: 'https://www.eventbrite.com.au/e/beathoven-presents-symbiosis-17-3rd-anniversary-halloween-party-tickets-1008238778327?aff=oddtdtcreator',
-			text: '25 OCT SYMBIOSIS #17 Halloween Party'
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1729919087/jcrzpmytnskr2ql6m2qc.jpg',
+			url: 'https://go.protonradio.com/r/rlf2OtjUhEGjU',
+			text: 'NEW RELEASE: Pott - Beast - EXTENT010 [01-11-24]'
 		},
 		{
 			image:
 				'https://res.cloudinary.com/dlq8spaji/image/upload/v1725529624/qfbtvh4j8wjpcemoxbbb.png',
 			url: 'https://events.humanitix.com/office-hours',
-			text: '1st Nov Office Hours Launch Party'
+			text: '1st Nov: Office Hours Launch Party'
+		},
+		{
+			image:
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1729919099/goqnnliklw5jqixxlx67.png',
+			url: 'https://www.eventbrite.com.au/e/techno-time-puzzles-records-showcase-november-9th-tickets-1054659889119',
+			text: '9th Nov: Techno Time Puzzles Records Showcase'
 		},
 		{
 			image:
