@@ -39,15 +39,15 @@ const content: Content = {
 		},
 		{
 			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1725529624/qfbtvh4j8wjpcemoxbbb.png',
-			url: 'https://events.humanitix.com/office-hours',
-			text: '1st Nov: Office Hours Launch Party'
-		},
-		{
-			image:
 				'https://res.cloudinary.com/dlq8spaji/image/upload/v1729919099/goqnnliklw5jqixxlx67.png',
 			url: 'https://www.eventbrite.com.au/e/techno-time-puzzles-records-showcase-november-9th-tickets-1054659889119',
 			text: '9th Nov: Techno Time Puzzles Records Showcase'
+		},
+		{
+			image:
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1730679326/zdxd7wpsolehvttxr8zk.png',
+			url: 'https://www.puzzlesrecords.com/shows',
+			text: '23 Nov: Puzzles #16 Lovecamp Showcase'
 		},
 		{
 			image:
