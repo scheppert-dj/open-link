@@ -39,15 +39,15 @@ const content: Content = {
 		},
 		{
 			image:
-				'https://res.cloudinary.com/dlq8spaji/image/upload/v1729919099/goqnnliklw5jqixxlx67.png',
-			url: 'https://www.eventbrite.com.au/e/techno-time-puzzles-records-showcase-november-9th-tickets-1054659889119',
-			text: '9th Nov: Techno Time Puzzles Records Showcase'
-		},
-		{
-			image:
 				'https://res.cloudinary.com/dlq8spaji/image/upload/v1730679326/zdxd7wpsolehvttxr8zk.png',
 			url: 'https://www.puzzlesrecords.com/shows',
 			text: '23 Nov: Puzzles #16 Lovecamp Showcase'
+		},
+		{
+			image:
+				'https://res.cloudinary.com/dlq8spaji/image/upload/v1731391039/gsik1vjisdyj1rbf3nkl.webp',
+			url: 'https://www.puzzlesrecords.com/shows',
+			text: '14 Dec: Puzzles #17 1st Anniversary'
 		},
 		{
 			image:
